@@ -44,8 +44,9 @@ This dataset contains information about health facilities in the United States o
 
 
 ### Built With
-* [![Python3][Python3.org]][Python-url]
-* [![scikit-learn][scikit-learn.org]][scikit-learn-url]
+
+* [![Python3][Python3]][Python-url]
+* [![scikit-learn][scikit-learn]][scikit-learn-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +114,7 @@ Project Link: [https://github.com/Kinjuriu/Facility_Assessment](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://github.com/Kinjuriu
 [Python3]: https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python
 [Python-url]: https://python.org/
