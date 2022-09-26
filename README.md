@@ -60,10 +60,6 @@ To set up the project locally
 ### Prerequisites
 
 The things you need to use the project and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 * Python3
     (Linux)
